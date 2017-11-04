@@ -1,0 +1,3 @@
+[submodule "block-shooter-game"]
+	path = block-shooter-game
+	url = git@github.com:Ezbob/block-shooter-game.git
