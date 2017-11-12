@@ -1,0 +1,15 @@
+
+h1 h2 h3 h4 h5 h6 {
+    font-family: sans;
+}
+
+body {
+    margin-right: auto;
+    margin-left: 60px;
+    width: 800px;
+    margin-top: 60px;
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+
