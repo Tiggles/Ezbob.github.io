@@ -1,17 +1,19 @@
 
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-
-h1 h2 h3 h4 h5 h6 {
-}
-
 body {
 	font-size: 18px;
 	line-height: 1.4;
-	font-family: 'Roboto', sans-serif;
 	margin: auto;
 	margin-top: auto;
 	width: 70vw;
 	margin-top: 20vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Lato', sans-serif;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
 }
 
 .ribbon {
