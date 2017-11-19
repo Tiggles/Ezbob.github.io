@@ -11,14 +11,9 @@
 
         <article class="flex">
 
-            <section class="box"><h4>About:</h4>
-<p>Hi, and thanks for dropping by my site! 
-I'm Anders Busch (also known as Ezbob); a computer scientist by education, and a curous programminger by nature.</p></section>
+            <!--##intro.md##-->
 
-            <section class="box"><h4>Projects</h4>
-<ul>
-<li><a href="block-shooter-game/index.html">Shooting game</a></li>
-</ul></section>
+            <!--##projects.md##-->
 
             <!--
             <section class="box">
@@ -34,5 +29,4 @@ I'm Anders Busch (also known as Ezbob); a computer scientist by education, and a
         <div class="ribbon"></div>
     </body>
 </html>
-
 
