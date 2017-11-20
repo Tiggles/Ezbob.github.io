@@ -15,18 +15,19 @@
 
             <!--##projects.md##-->
 
-            <!--
-            <section class="box">
-                <p>Projects:</p>
-                <ul>
-                    <li><a href="block-shooter-game/index.html">Shooting game</a></li>
-                </ul>
-            </section>
-            -->
-
+            <aside class="box">
+                <h4>News</h4>
+                <div class="flex">
+                    <!--##1.md##-->
+                </div>
+            </aside>
         </article>
 
-        <div class="ribbon"></div>
+        <div class="ribbon1"></div>
+        <div class="ribbon2"></div>
+        <div class="ribbon3"></div>
+        <div class="ribbon4"></div>
+        <div class="triangle"></div>
     </body>
 </html>
 

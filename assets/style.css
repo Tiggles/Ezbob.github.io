@@ -23,21 +23,60 @@ a {
 }
 
 .box {
-	flex: 1;
+	flex: 30vw;
 	padding-right: 75px;
 	text-align: justify;
 }
 
-.ribbon {
-	background-color: grey;
-	height: 20px;
-	transform: skewY(-10deg);
+.ribbon1, .ribbon2, .ribbon3 {
+	height: 1.88vh;
+	transform: skewY(-9deg);
 	transform-origin: 100%;
 	left: 0;
 	position: absolute;
 	right: 0;
-	z-index: -1;
-	box-shadow: 10px 10px 5px whitesmoke;
-	top: 40vh;
+	z-index: -2;
+	width: 50vw;
+
 }
 
+.ribbon1 {
+	background-color: rgb(204, 255, 204);
+	top: 38.3vh;
+}
+
+.ribbon2 {
+	background-color: rgb(255, 214, 204);
+	top: 40.15vh;
+}
+
+.ribbon3 {
+	background-color: rgb(204, 221, 255);
+	top: 42vh;
+	/*box-shadow: 10px 10px 5px whitesmoke;*/
+}
+
+.ribbon4 {
+	z-index: -2;
+	left: 50vw;
+	position: absolute;
+	right: 0;
+	width: 50vw;
+	height: 1.88vh;
+	transform: skewY(9deg);
+	transform-origin: 100%;
+	top: 54.15vh;
+	background-color: rgb(230, 230, 230);
+}
+
+.triangle {
+	width: 0;
+	height: 0;
+	z-index: -1;
+	border-left: 5vw solid transparent;
+	border-right: 5vw solid transparent;
+	border-bottom: 15vh solid whitesmoke;
+	top: 33vh;
+	left: 45vw;
+	position: absolute;
+}
